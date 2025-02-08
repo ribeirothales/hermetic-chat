@@ -12,6 +12,7 @@ Uma aplicação de chat em tempo real, onde os usuários podem interagir instant
 ### 2. Mensagens em Tempo Real 💬
 - Envio e Recebimento de Mensagens: Troca instantânea de mensagens entre usuários.
 - Notificações de Nova Mensagem 🔔: O sistema notifica o usuário sempre que há uma nova mensagem.
+- Upload de imagens no chat, com armazenamento otimizado no Cloudinary.
 ### 3. Lista de Contatos 📋
 - Exibição de Usuários Online: Visualize em tempo real quem está online.
 - Filtragem de Contatos Online: Mostre apenas os usuários que estão online para facilitar a comunicação.
@@ -19,6 +20,7 @@ Uma aplicação de chat em tempo real, onde os usuários podem interagir instant
 - Seleção de Contatos: Clique em um contato da lista para iniciar uma conversa privada.
 - Status de Leitura: As mensagens são exibidas com a identificação do remetente, e o status online/offline do usuário é mostrado.
 ### 5. Armazenamento Persistente de Dados 💾
+- Banco de dados MongoDB, garantindo escalabilidade e eficiência no gerenciamento dos dados.
 - Autenticação com Cookies: Permite manter o usuário autenticado mesmo após o recarregamento da página.
 - Tokens de Autenticação JWT: Gerencia a autenticação via tokens armazenados em cookies para segurança.
 ### 6. UI e Design Responsivo 📱💻
@@ -36,6 +38,7 @@ O projeto foi desenvolvido utilizando tecnologias modernas para garantir uma exp
 - Node.js e Express: Ambiente backend e framework para criação das APIs.
 - Socket.IO: Comunicação em tempo real entre o frontend e o backend.
 - Tailwind CSS: Framework CSS para criar layouts responsivos e estilos flexíveis.
+- MongoDB – Banco de dados NoSQL para armazenar mensagens, usuários e dados do app.
 - DaisyUI: Biblioteca de componentes de interface de usuário para Tailwind CSS.
 - React Hot Toast: Exibe notificações de forma interativa e elegante.
 - JWT (JSON Web Tokens): Para autenticação e controle de sessões do usuário.
