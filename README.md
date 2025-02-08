@@ -1,4 +1,4 @@
-# Chat em Tempo Real 🚀💬
+# Hermetic - Chat em Tempo Real 🚀💬
 Uma aplicação de chat em tempo real, onde os usuários podem interagir instantaneamente com amigos e colegas. A aplicação inclui recursos como mensagens privadas, lista de usuários online, autenticação de usuários, alternânica entre temas Dark e Light e muito mais! 
 - Acesse agora (https://hermetic-chat.onrender.com/)
 
