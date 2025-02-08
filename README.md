@@ -36,6 +36,7 @@ O projeto foi desenvolvido utilizando tecnologias modernas para garantir uma exp
 
 - React: Framework JavaScript para construção da interface de usuário.
 - Node.js e Express: Ambiente backend e framework para criação das APIs.
+- Vite – Ferramenta de build ultrarrápida e leve para desenvolvimento frontend.
 - Socket.IO: Comunicação em tempo real entre o frontend e o backend.
 - Tailwind CSS: Framework CSS para criar layouts responsivos e estilos flexíveis.
 - MongoDB – Banco de dados NoSQL para armazenar mensagens, usuários e dados do app.
